@@ -1,0 +1,7 @@
+@startuml
+class ex46{
++ {static} void main(String[])
++ {static} Map<S,I> valueSort(Map<S,I>)
++ {static} String file(String)
+}
+@enduml

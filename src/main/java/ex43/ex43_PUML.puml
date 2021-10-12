@@ -1,0 +1,7 @@
+@startuml
+class WebsiteGenerator {
++ {static} void main(String[])
++ {static} void createDir(String,String,String)
++ {static} void createHtml(String,String)
+}
+@enduml

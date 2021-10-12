@@ -1,0 +1,6 @@
+@startuml
+class NameSorter {
++ {static} void main(String[])
++ {static} String[] file(String)
+}
+@enduml

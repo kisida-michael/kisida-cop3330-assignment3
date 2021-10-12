@@ -1,0 +1,6 @@
+@startuml
+class ex45{
++ {static} void main(String[])
++ {static} String file(String)
+}
+@enduml

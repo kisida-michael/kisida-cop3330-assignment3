@@ -1,0 +1,6 @@
+@startuml
+class DataParsing {
++ {static} void main(String[])
++ {static} void filePrint (String filename)
+}
+@enduml

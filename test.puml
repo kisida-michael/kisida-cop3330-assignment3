@@ -1,0 +1,6 @@
+@startuml
+class ex42.DataParsing {
++ {static} void main(String[])
++ {static} void file(String)
+}
+@enduml
